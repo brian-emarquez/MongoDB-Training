@@ -108,9 +108,11 @@ _Descarga_
 Music Development - [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
 
-## Paypal
+## Donate
 
-☕ Invitame un Cafe  [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
+_Paypal_
+
+☕ Invite me a coffee  [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
 
 
 ---
