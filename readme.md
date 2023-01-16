@@ -41,6 +41,7 @@
 | Numeration   | Check   |    Contents      |    Edit Gitpot  |    Link      |
 |:-----------:|:---------:|:---------------:|:----------------:|:------------:|
 |  001         | ✔️     | [Install Ubuntu](#install-ubuntu)  |  [Gitpot](https://www.gitpod.io/) |[⬅️ back](https://github.com/BrianMarquez3)| 
+|  002         | ✔️     | [Comands](#comands)  |  [Gitpot](https://www.gitpod.io/) |[⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 ## Install
