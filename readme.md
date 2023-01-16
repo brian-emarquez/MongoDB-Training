@@ -65,3 +65,69 @@ sudo systemctl status mongod
 sudo systemctl enable mongod
 ```
 
+## Books
+
+
+🛒 MongoDB - [The Definitive Guide 1st Edition](https://www.amazon.com/MongoDB-Definitive-Guide-Kristina-Chodorow/dp/1449381561)
+
+<table>
+  <tr>
+      <td>Server</td>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editorial</td>
+      <td>ISBN-10</td>
+      <td>Link</td>
+  </tr>
+
+  <tr>
+      <td>OneDrive</td>
+      <td>MongoDB: The Definitive Guide</td>
+      <td>Kristina Chodorow,  Michael Dirolf</td>
+      <td>O'REILLY</td>
+      <td> 1449381561</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EQeNs6BGoM9ItgPgwJwK0xkBFIDhN9ChVugFrms984V5bw?e=SeRB5w">MongoDB: The Definitive Guide 1st Edition</a></td>
+  </tr>
+
+  <tr>
+      <td>OneDrive</td>
+      <td>MongoDB: The Definitive Guide: Powerful and Scalable Data Storage 3rd Edition</td>
+      <td>Kristina Chodorow,  Shannon Bradshaw</td>
+      <td>O'REILLY</td>
+      <td> 1491954469</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EQeNs6BGoM9ItgPgwJwK0xkBFIDhN9ChVugFrms984V5bw?e=SeRB5w">MongoDB: The Definitive Guide: Powerful and Scalable Data Storage 3rd Edition</a></td>
+  </tr>
+</table>
+
+
+
+
+
+## Spotify 
+
+Music Development[List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
+
+
+## Paypal
+
+☕ Invitame un Cafe  [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+
+---
+
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/1 (8).gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
+
