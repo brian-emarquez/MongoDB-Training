@@ -40,14 +40,14 @@
 
 | Numeration   | Check   |    Contents      |    Edit Gitpot  |    link      |
 | ------------ |---------|---------------|---------------- |------------- |
-|  001         | ✔️      | [Install Ubuntu](#install-ubuntu)  |  [Gitpot](https://www.gitpod.io/) |[⬅️ back]
+|  001         | ✔️     | [Install Ubuntu](#install-ubuntu)  |  [Gitpot](https://www.gitpod.io/) |[⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 ## Install
 
-| Carpeta | Link    |     Home   |  Code   | Version | Estado       |
-|---------|:-------:|:-----------:|:-------:|:-------:|:-----------:|
-| [Install Ubuntu](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install)          |      ✔️     | [⬅️Atras](#Table-of-Contents) | yes | yes | ✔️ |
+| Carpeta | Link    |  Code   | Version | Estado      |
+|---------|:-------:|:-------:|:-------:|:-----------:|
+| [Install Ubuntu](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install)          |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Table-of-Contents) |
 
 
 
