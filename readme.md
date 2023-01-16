@@ -38,16 +38,16 @@
 
 ## Table of Contents
 
-| Numeration   | Check   |    Contents      |    Edit Gitpot  |    link      |
-| ------------ |---------|---------------|---------------- |------------- |
+| Numeration   | Check   |    Contents      |    Edit Gitpot  |    Link      |
+|:-----------:|:---------:|:---------------:|:----------------:|:------------:|
 |  001         | ✔️     | [Install Ubuntu](#install-ubuntu)  |  [Gitpot](https://www.gitpod.io/) |[⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 ## Install
 
-| Carpeta | Link    |  Code   | Version | Estado      |
-|---------|:-------:|:-------:|:-------:|:-----------:|
-| [Install Ubuntu](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install)          |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Table-of-Contents) |
+| Carpeta | Link    |  Code   | Version | Estado      | Home  |
+|---------|:-------:|:-------:|:-------:|:-----------:|:-----:|
+| [Install Ubuntu](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install) |✔️| yes | yes | ✔️ | [⬅️Atras](#Table-of-Contents) |
 
 
 
