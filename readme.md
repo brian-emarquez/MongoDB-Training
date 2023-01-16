@@ -88,7 +88,7 @@ _Descarga_
       <td>Kristina Chodorow,  Michael Dirolf</td>
       <td>O'REILLY</td>
       <td> 1449381561</td>
-      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EQeNs6BGoM9ItgPgwJwK0xkBFIDhN9ChVugFrms984V5bw?e=SeRB5w">MongoDB: The Definitive Guide 1st Edition</a></td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EYs4kdEEtlZDiFKsri12s50BXEWX5d_dk_-ygp9yI4Gsvg?e=b1HMeT">MongoDB: The Definitive Guide 1st Edition</a></td>
   </tr>
 
   <tr>
@@ -96,7 +96,7 @@ _Descarga_
       <td>Kristina Chodorow,  Shannon Bradshaw</td>
       <td>O'REILLY</td>
       <td> 1491954469</td>
-      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EQeNs6BGoM9ItgPgwJwK0xkBFIDhN9ChVugFrms984V5bw?e=SeRB5w">MongoDB: The Definitive Guide: Powerful and Scalable Data Storage 3rd Edition</a></td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/Eeyx3v5z6kRAnq-abxZprooBDnzEB9HxL_Lw0MQ4D_Oq0g?e=QwzE42">MongoDB: The Definitive Guide: Powerful and Scalable Data Storage 3rd Edition</a></td>
   </tr>
 </table>
 
