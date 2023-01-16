@@ -20,7 +20,6 @@
   </a>
   </a>
    <a href="https://github.com/BrianMarquez3/MongoDB-Training/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
     <img src="https://img.shields.io/badge/Plataform-Linux-darkblue">
   </a><br>
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/MongoDB-Training?color=darkblue&style=for-the-badge">
