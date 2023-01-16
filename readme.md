@@ -48,7 +48,7 @@
 
 <p>Install MongoDB Community Edition on Ubuntu</p>
 
-[Install MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
+📦 Install - [Install MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
 
 | Carpeta | Link    |  Code   | Version | Estado      | Home  |
 |---------|:-------:|:-------:|:-------:|:-----------:|:-----:|
