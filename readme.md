@@ -45,9 +45,9 @@
 
 ## Install
 
-| Carpeta                    | Link         |     Home   |  Code       | Version | Estado |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Install Ubuntu](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install)          |      ✔️     | [⬅️Atras](#TTable-of-Contents) | yes | yes | ✔️ |
+| Carpeta | Link    |     Home   |  Code   | Version | Estado       |
+|---------|:-------:|:-----------:|:-------:|:-------:|:-----------:|
+| [Install Ubuntu](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install)          |      ✔️     | [⬅️Atras](#Table-of-Contents) | yes | yes | ✔️ |
 
 
 
