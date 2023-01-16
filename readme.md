@@ -76,7 +76,6 @@ _Descarga_
 
 <table>
   <tr>
-      <td>Server</td>
       <td>Name</td>
       <td>Authors</td>
       <td>Editorial</td>
@@ -85,7 +84,6 @@ _Descarga_
   </tr>
 
   <tr>
-      <td>OneDrive</td>
       <td>MongoDB: The Definitive Guide</td>
       <td>Kristina Chodorow,  Michael Dirolf</td>
       <td>O'REILLY</td>
