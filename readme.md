@@ -70,7 +70,7 @@ sudo systemctl enable mongod
 _buy online_
 
 🛒 Link - [The Definitive Guide 1st Edition](https://www.amazon.com/MongoDB-Definitive-Guide-Kristina-Chodorow/dp/1449381561)<br>
-🛒 Linkk - [ The Definitive Guide: Powerful and Scalable Data Storage 3rd Edition](https://www.amazon.com/MongoDB-Definitive-Powerful-Scalable-Storage-dp-1491954469/dp/1491954469/ref=dp_ob_image_bk)
+🛒 Link - [ The Definitive Guide: Powerful and Scalable Data Storage 3rd Edition](https://www.amazon.com/MongoDB-Definitive-Powerful-Scalable-Storage-dp-1491954469/dp/1491954469/ref=dp_ob_image_bk)
 
 _Descarga_
 
