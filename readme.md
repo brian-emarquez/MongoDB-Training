@@ -1,7 +1,6 @@
-<h2 align="center"> MongoDB Training </h2>
+<h2 align="center"> 💪 MongoDB Training </h2>
 
 <p align="center">
-  
   </a>
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/MongoDB-Training?color=red">
   </a>
@@ -36,4 +35,14 @@
 </table>
 
 [Mongo DB Documentation](https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=controlhterms&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-pe_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624332&adgroup=115749719263&gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIcymNEvh9avFVdf8LQvjM4ZGdIyhyvFaYxPqMaWyZiPa_Yzgck78rhoCJD4QAvD_BwE)
+
+## Comands
+
+_Iniciar_
+
+```bash
+sudo systemctl start mongod
+sudo systemctl status mongod
+sudo systemctl enable mongod
+```
 
