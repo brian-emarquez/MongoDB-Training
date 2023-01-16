@@ -106,7 +106,7 @@ _Descarga_
 
 ## Spotify 
 
-Music Development[List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
+Music Development - [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
 
 ## Paypal
