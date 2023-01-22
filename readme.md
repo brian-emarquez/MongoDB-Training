@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/github/stars/BrianMarquez3/MongoDB-Training.svg?style=flat" alt="Stars">
   </a>
 
-
   <a href="https://github.com/BrianMarquez3/MongoDB-Training$/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/MongoDB-Training.svg?style=flat" alt="Forks">
   </a>
