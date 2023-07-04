@@ -45,27 +45,31 @@
 
 ## Table of Contents
 
-| Numeration   | Check   |    Contents      |    Edit Gitpot  |    Link      |
-|:-----------:|:---------:|:---------------:|:----------------:|:------------:|
-|  001         | ✔️     | [Install Ubuntu](#install-ubuntu)  |  [Gitpot](https://www.gitpod.io/) |[⬅️ back](https://github.com/BrianMarquez3)| 
-|  002         | ✔️     | [Comands](#comands)  |  [Gitpot](https://www.gitpod.io/) |[⬅️ back](https://github.com/BrianMarquez3)| 
+| Numeration   | Check   |    Contents      |      Link      |
+|:-----------:|:---------:|:---------------:|:--------------:|
+|  001         | ✔️     | [Install Linux Ubuntu](#install-ubuntu)  | [⬅️ back](https://github.com/BrianMarquez3)| 
+|  002         | ✔️     | [Install Windows](#install-ubuntu)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
+|  003         | ✔️     | [Comands Linux Ubuntu](#comands)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 
 
-## Install
+## Install Linux Ubuntu
 
 <p>Install MongoDB Community Edition on Ubuntu</p>
 
-📦 Install - [Install MongoDB](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install)
-
-📦 Install - [Install MongoDB Community Edition on Ubuntu](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
-
+📦 Install Ubuntu - [Install MongoDB](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install)
+📦 Install Ubuntu - [Install MongoDB Community Edition on Ubuntu](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
 
 | Carpeta | Link    |  Code   | Version | Estado      | Home  |
 |---------|:-------:|:-------:|:-------:|:-----------:|:-----:|
 | [Install Ubuntu](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install) |✔️| yes | yes | ✔️ | [⬅️Atras](#Table-of-Contents) |
 
+## Install Windows
 
-## Comands
+📦 Install Windows - [Install MongoDB](https://www.mongodb.com/try/download/community)
+📦 Install ROBO 3T - [Install ROBO 3T](https://robomongo.org/)
+📦 Install The Smartest IDE for MongoDB - [Install Nosqlbooster](https://nosqlbooster.com/)
+
+## Comands Linux Ubuntu
 
 _Iniciar_
 
