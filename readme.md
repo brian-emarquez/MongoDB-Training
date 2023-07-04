@@ -126,7 +126,7 @@ Music Development - [List on Spotify](https://open.spotify.com/playlist/11AwbhmX
 
 _Paypal_
 
-☕ Invite me a coffee  [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
+☕ Invitame un Cafe  [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
 
 
 ---
