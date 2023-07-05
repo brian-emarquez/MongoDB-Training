@@ -51,6 +51,7 @@
 |  002         | ✔️     | [Install Windows](#Install-Windows)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  003         | ✔️     | [Comands Linux Ubuntu](#Comands-Linux-Ubuntu)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  004         | ✔️     | [Bases de Datos](#Bases-de-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
+|  005         | ✔️     | [Guardas Datos](#Guardas-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 
 ## Install Linux Ubuntu
 
@@ -110,6 +111,14 @@ db.collection.find()
 | Carpeta | Link    |  Code   | Version | Estado      | Home  |
 |---------|:-------:|:-------:|:-------:|:-----------:|:-----:|
 | [Creacion de Bases de datos](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/BaseDatos) |✔️| yes | yes | ✔️ | [⬅️Atras](#Table-of-Contents) |
+
+## Guardas Datos
+
+| Carpeta | Link    |  Code   | Version | Estado      | Home  |
+|---------|:-------:|:-------:|:-------:|:-----------:|:-----:|
+| [Guardas Datos](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install) |✔️| yes | yes | ✔️ | [⬅️Atras](#Table-of-Contents) |
+
+
 
 
 --
