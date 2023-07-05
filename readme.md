@@ -116,9 +116,7 @@ db.collection.find()
 
 | Carpeta | Link    |  Code   | Version | Estado      | Home  |
 |---------|:-------:|:-------:|:-------:|:-----------:|:-----:|
-| [Guardas Datos](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install) |✔️| yes | yes | ✔️ | [⬅️Atras](#Table-of-Contents) |
-
-
+| [Guardas Datos](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/GuardasDatos) |✔️| yes | yes | ✔️ | [⬅️Atras](#Table-of-Contents) |
 
 
 --
