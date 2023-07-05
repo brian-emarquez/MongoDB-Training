@@ -79,6 +79,21 @@ sudo systemctl status mongod
 sudo systemctl enable mongod
 ```
 
+_ver las colecciones_
+
+```
+show collections
+```
+
+_ver las bases de datos
+
+```
+show db
+show databases
+```
+
+
+
 ## Bases de Datos
 
 | Carpeta | Link    |  Code   | Version | Estado      | Home  |
