@@ -92,11 +92,17 @@ show db
 show databases
 ```
 
-_Insert Documents_
+_Insert Documents Example_
 
 ```
 db.collection.insertOne({'nombre': 'brian', 'apellido':'marquez'})
-db.collection.insertMany()
+db.collection.insertMany([{'nombre': 'brian1', 'apellido':'marquez1'}, {'nombre': 'brian2', 'apellido':'marquez2'}])
+```
+
+_Monstar Informacion_
+
+```
+db.collection.find()
 ```
 
 ## Bases de Datos
