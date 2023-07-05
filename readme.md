@@ -92,7 +92,12 @@ show db
 show databases
 ```
 
+_Insert Documents_
 
+```
+db.collection.insertOne({'nombre': 'brian', 'apellido':'marquez'})
+db.collection.insertMany()
+```
 
 ## Bases de Datos
 
