@@ -12,6 +12,25 @@ _Pagina Principal MongoDB Compas_
 
 ## Comands
 
+_Insertar Datos_
+
+```
+db.usuarios.insertMany([
+    {
+        "nombre":"Camila",
+        "email":"Camila@mail.com",
+        "edad":26
+        
+    },
+    {
+        "nombre":"fabiola",
+        "email":"fabiola@fabi.com",
+        "edad":30,
+        "genero": "F"
+    }
+])
+```
+
 _ver las colecciones_
 
 ```
