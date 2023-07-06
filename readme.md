@@ -52,6 +52,7 @@
 |  003         | ✔️     | [Comands Linux Ubuntu](#Comands-Linux-Ubuntu)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  004         | ✔️     | [Bases de Datos](#Bases-de-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  005         | ✔️     | [Guardas Datos](#Guardas-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
+|  006         | ✔️     | [ObjectId Listar DOcumentos](#Object-ListaDocumentos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 
 ## Install Linux Ubuntu
 
@@ -122,6 +123,19 @@ db.collection.find()
 | Carpeta | Link    |  Code   | Version | Estado      | Home  |
 |---------|:-------:|:-------:|:-------:|:-----------:|:-----:|
 | [Guardas Datos](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/GuardasDatos) |✔️| yes | yes | ✔️ | [⬅️Atras](#Table-of-Contents) |
+
+## ObjectId Listar DOcumentos
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/id.png" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 --
