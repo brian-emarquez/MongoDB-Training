@@ -56,3 +56,13 @@ _Monstar Informacion_
 ```
 db.collection.find()
 ```
+
+
+_ Ejemplo base de Datos_
+
+```
+use peliculas;
+db.peliculas.save({titulo:'Batman el caballero oscuro'});
+db.peliculas.find();
+show dbs;
+```
