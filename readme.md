@@ -141,8 +141,11 @@ db.collection.find()
 
 Metodos -  [Motodos](https://www.mongodb.com/docs/manual/reference/method/db.collection.findAndModify/)
 
+_ejemplo Busqueda_
 
-
+db.usuarios.find({})
+db.usuarios.find({edad: {$gte: 30}})
+db.usuarios.find({$and:[{nombre: "Camila"}, {nombre: "Camila"}]})
 --
 
 ## Books
