@@ -63,8 +63,8 @@
 
 <p>Install MongoDB Community Edition on Ubuntu</p>
 
-📦 Install Ubuntu - [Install MongoDB](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install)
-📦 Install Ubuntu - [Install MongoDB Community Edition on Ubuntu](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
+📦 Install Ubuntu - [Install MongoDB](https://github.com/BrianMarquez3/MongoDB-Training/tree/main/install) <br>
+📦 Install Ubuntu - [Install MongoDB Community Edition on Ubuntu](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/) <br>
 
 | Carpeta | Link    |  Code   | Version | Estado      | Home  |
 |---------|:-------:|:-------:|:-------:|:-----------:|:-----:|
@@ -72,9 +72,9 @@
 
 ## Install Windows
 
-📦 Install Windows - [Install MongoDB](https://www.mongodb.com/try/download/community)
-📦 Install ROBO 3T - [Install ROBO 3T](https://robomongo.org/)
-📦 Install The Smartest IDE for MongoDB - [Install Nosqlbooster](https://nosqlbooster.com/)
+📦 Install Windows - [Install MongoDB](https://www.mongodb.com/try/download/community) <br>
+📦 Install ROBO 3T - [Install ROBO 3T](https://robomongo.org/) <br>
+📦 Install The Smartest IDE for MongoDB - [Install Nosqlbooster](https://nosqlbooster.com/) <br>
 
 _use_
 
