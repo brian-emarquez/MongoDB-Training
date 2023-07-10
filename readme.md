@@ -56,6 +56,8 @@
 |  007         | ✔️     | [Busqueda Avanzanda](#Busqueda-Avanzanda)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  008         | ✔️     | [SQL en NoSQL](#SQL-en-NoSQL)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  009         | ✔️     | [Actualizar Datos](#Actualizar-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
+|  010         | ✔️     | [Eliminar Datos](#Eliminar-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
+
 
 ## Install Linux Ubuntu
 
@@ -196,6 +198,11 @@ db.usuarios.updateOne(
     {$set: {email:"nuevoemail@mail.com", "nombre":"nuevousuario"}}
     )
 ```
+
+## Eliminar Datos
+
+
+
 
 --
 
