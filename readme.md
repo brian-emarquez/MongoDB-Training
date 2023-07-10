@@ -55,6 +55,7 @@
 |  006         | ✔️     | [ObjectId Listar DOcumentos](#Object-ListaDocumentos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  007         | ✔️     | [Busqueda Avanzanda](#Busqueda-Avanzanda)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  008         | ✔️     | [SQL en NoSQL](#SQL-en-NoSQL)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
+|  009         | ✔️     | [Actualizar Datos](#Actualizar-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 
 ## Install Linux Ubuntu
 
@@ -96,14 +97,14 @@ show collections
 
 _ver las bases de datos
 
-```
+```sql
 show db
 show databases
 ```
 
 _Insert Documents Example_
 
-```
+```sql
 db.collection.insertOne({'nombre': 'brian', 'apellido':'marquez'})
 db.collection.insertMany([{'nombre': 'brian1', 'apellido':'marquez1'}, {'nombre': 'brian2', 'apellido':'marquez2'}])
 ```
@@ -170,6 +171,31 @@ _Convertir_
   </tr>
 </table>
 
+## Actualizar Datos
+
+_Actualizar campo_
+
+```sql
+db.esquema.find()
+
+db.usuarios.updateOne(
+    {_id:ObjectId("64a5abb5b353ce379004e7d9")},
+    {$set: {email:"nuevo@mail.com", "nombre":"nuevo"}}
+    )
+```
+
+_Actualizar todo_
+
+se actualizara todo los campos con ese mismo Email y nombre
+
+```sql
+db.esquema.find()
+
+db.usuarios.updateOne(
+    {},
+    {$set: {email:"nuevoemail@mail.com", "nombre":"nuevousuario"}}
+    )
+```
 
 --
 
