@@ -76,7 +76,7 @@
 📦 Install ROBO 3T - [Install ROBO 3T](https://robomongo.org/) <br>
 📦 Install The Smartest IDE for MongoDB - [Install Nosqlbooster](https://nosqlbooster.com/) <br>
 
-_use_
+_Online_
 
 Visual Studio Code for the Web - [Visual Code Online](https://vscode.dev/)
 
