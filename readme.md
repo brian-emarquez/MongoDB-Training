@@ -54,6 +54,7 @@
 |  005         | ✔️     | [Guardas Datos](#Guardas-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  006         | ✔️     | [ObjectId Listar DOcumentos](#Object-ListaDocumentos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  007         | ✔️     | [Busqueda Avanzanda](#Busqueda-Avanzanda)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
+|  008         | ✔️     | [SQL en NoSQL](#SQL-en-NoSQL)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 
 ## Install Linux Ubuntu
 
@@ -146,6 +147,11 @@ _ejemplo Busqueda_
 db.usuarios.find({})
 db.usuarios.find({edad: {$gte: 30}})
 db.usuarios.find({$and:[{nombre: "Camila"}, {nombre: "Camila"}]})
+
+## SQL en NoSQL
+
+
+
 --
 
 ## Books
