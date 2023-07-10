@@ -201,8 +201,16 @@ db.usuarios.updateOne(
 
 ## Eliminar Datos
 
+_Borra un campo_
 
+```sql
+db.usuarios.deleteOne(({_id:ObjectId("64a5abb5b353ce379004e7d9")})
+```
+_Borrar todo_
 
+```sql
+db.usuarios.deleteMany({})
+```
 
 --
 
