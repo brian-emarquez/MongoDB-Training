@@ -150,6 +150,8 @@ db.usuarios.find({$and:[{nombre: "Camila"}, {nombre: "Camila"}]})
 
 ## SQL en NoSQL
 
+_converte SQL TO NO SQL_
+
 
 
 --
