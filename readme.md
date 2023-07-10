@@ -53,6 +53,7 @@
 |  004         | ✔️     | [Bases de Datos](#Bases-de-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  005         | ✔️     | [Guardas Datos](#Guardas-Datos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 |  006         | ✔️     | [ObjectId Listar DOcumentos](#Object-ListaDocumentos)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
+|  007         | ✔️     | [Busqueda Avanzanda](#Busqueda-Avanzanda)  |  [⬅️ back](https://github.com/BrianMarquez3)| 
 
 ## Install Linux Ubuntu
 
@@ -133,6 +134,10 @@ db.collection.find()
     </td>
   </tr>
 </table>
+
+
+## Busqueda Avanzanda
+
 
 
 
