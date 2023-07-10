@@ -1,4 +1,4 @@
-<h2 align="center"> 👩‍💻 MongoDB Training 💪 </h2>
+<h2 align="center"> 🍃 MongoDB Training 💪 </h2>
 
 <p align="center">
   </a>
