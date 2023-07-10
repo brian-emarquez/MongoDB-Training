@@ -139,7 +139,7 @@ db.collection.find()
 ## Busqueda Avanzanda
 
 
-
+Metodos -  [Motodos](https://www.mongodb.com/docs/manual/reference/method/db.collection.findAndModify/)
 
 
 
